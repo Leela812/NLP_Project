@@ -1,5 +1,6 @@
 ## Comparative Analysis of NLP Models for Resume Screening
-Project Overview
+Project Overview: 
+
 This project evaluates the effectiveness of various Natural Language Processing (NLP) models for automating resume screening. The goal is to reduce manual effort, improve objectivity, and enhance the accuracy of candidate selection by analyzing resumes and job descriptions.
 
 Key Objectives
